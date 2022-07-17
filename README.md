@@ -8,6 +8,8 @@ This page contains a general overview of what I've worked on over the years.
 
 ### 👔 Work Experience
 
+#### Growth Acceleration Partners (current)
+
 #### MethodExists
 
 MethodExists is a web development company based in Calgary, AB, Canada. As a full stack engineer, I worked on several projects from the original idea to production. Some of those projects are:
@@ -113,12 +115,14 @@ Things I made open source or contributed to on Github. These are not all, but th
 
 These are also open source contributions, but they were part of a bounty and I was paid for those contributions. All those happened on [Gitcoin](https://gitcoin.co/zerquix18).
 
+* [Built a Typescript SDK for Covalent's API, including unit testing with jest](https://github.com/zerquix18/covalent-sdk) and [a Next.js app to use it](https://github.com/zerquix18/covalent-web).
 * [Built a Discord bot for Boardroom](https://github.com/boardroom-inc/boardroom-discord-bot) and [deployed it using the CDK](https://github.com/Zerquix18/boardroom-bot-cdk).
-* [Added coincap to shapeshift, including unit testing with jest](https://github.com/shapeshift/lib/pull/286).
+* [Added coincap provider (typescript) to shapeshift, including unit testing with jest](https://github.com/shapeshift/lib/pull/286).
 * [Created a query builder for KwilDB](https://github.com/zerquix18/kwildb/).
 * [Added a chart plugin to Snapshot](https://github.com/snapshot-labs/snapshot/pull/949).
 * [Created CloudWatch Synthethics for Harmony](https://github.com/Zerquix18/harmony-cloudwatch).
 * [Added Story book documentation to the Bounties Network](https://github.com/Bounties-Network/Explorer/issues/236).
+* [Built Discord bot that uses The Graph to get pricing data from uniswap and sushiswap](https://github.com/Zerquix18/the-graph-discord-bot)
 
 ### 📝 Articles I've written
 
@@ -129,5 +133,4 @@ These are also open source contributions, but they were part of a bounty and I w
 ### 🎓 Education
 
 * Bachelor's degree in computer science from Universidad del Caribe, graduated magna cum laude
-
 
