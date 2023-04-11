@@ -10,6 +10,10 @@ This page contains a general overview of what I've worked on over the years.
 
 #### Growth Acceleration Partners (current)
 
+* In a cross-team collaboration, developed the Expense Tracking feature for the ZenBusiness mobile app. This caused a 10x increase in active users who could now categorize their expenses on the go. As part of the GraphQL layer, I was one of the main links between the two teams.
+* Developed and implemented an "Onboarding" feature to improve user engagement with ZB$ Pro. Designed and architected the front-end while ensuring seamless integration with the backend.
+
+
 #### MethodExists
 
 MethodExists is a web development company based in Calgary, AB, Canada. As a full stack engineer, I worked on several projects from the original idea to production. Some of those projects are:
