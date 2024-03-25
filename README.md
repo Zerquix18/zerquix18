@@ -13,7 +13,7 @@ This page contains a general overview of what I've worked on over the years.
 * In a cross-team collaboration, developed the Expense Tracking feature for the ZenBusiness mobile app. This caused a 10x increase in active users who could now categorize their expenses on the go. As part of the GraphQL layer, I was one of the main links between the Fintech and Mobile teams.
 * Developed and implemented an "Onboarding" feature to improve user engagement with ZB$ Pro. Designed and architected the front-end while ensuring seamless integration with the backend.
 * Architected and built a free trial feature which allowed users to get the first month for free to try ZB$ Pro. Over a 100 people subscribed to the free trial within the first week. 
-
+* Avid bug fixer: Complimented and responsible for helping solve over a 100 triage tickets.
 
 #### MethodExists
 
@@ -138,4 +138,4 @@ These are also open source contributions, but they were part of a bounty and I w
 ### 🎓 Education
 
 * Bachelor's degree in computer science from Universidad del Caribe, graduated magna cum laude
-
+* Certified AWS Cloud Architect
